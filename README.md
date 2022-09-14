@@ -1,4 +1,4 @@
-# student-mentoring
+# Student Mentoring
 It is a repository for student tutorials in which software projects are developed.
 
 <h2>Projects</h2>
